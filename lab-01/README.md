@@ -15,7 +15,7 @@
 
 ## Live Link
 
-Not deployed yet
+- **Deployed URL:** https://collage-labs-b5tr.onrender.com
 
 ---
 

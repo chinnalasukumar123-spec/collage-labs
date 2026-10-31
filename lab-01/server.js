@@ -14,7 +14,7 @@ app.get('/about', (req, res) => {
   res.status(200).json({
     name: 'Sukumar',
     registrationNumber: '252U1R7059',
-    section: 'CSE FSD 309 1B'
+    section: 'CSE FSD 309 2B'
   });
 });
 

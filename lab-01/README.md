@@ -4,7 +4,7 @@
 
 - **Name:** Sukumar
 - **Registration Number:** 252U1R7059
-- **Section:** CSE FSD 309 1B
+- **Section:** CSE FSD 309 2B
 
 ---
 

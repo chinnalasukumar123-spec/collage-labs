@@ -3,8 +3,8 @@
 ## Student Details
 
 - **Name:** Sukumar
-- **Registration Number:** [Your Registration Number]
-- **Section:** [Your Section]
+- **Registration Number:** 252U1R7059
+- **Section:** CSE FSD 309 1B
 
 ---
 

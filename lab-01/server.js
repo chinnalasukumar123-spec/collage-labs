@@ -13,7 +13,8 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   res.status(200).json({
     name: 'Sukumar',
-    section: 'YOUR_SECTION' // Replace with your section (e.g., A, B, K22AB)
+    registrationNumber: '252U1R7059',
+    section: 'CSE FSD 309 1B'
   });
 });
 
@@ -33,4 +34,3 @@ app.listen(PORT, () => {
 });
 
 module.exports = app;
-

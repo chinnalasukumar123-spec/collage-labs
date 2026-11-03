@@ -1,0 +1,23 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "Lab 3: REST API, query parameters, validation, debugging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sqlite3",
+    "rest-api",
+    "lab-03"
+  ],
+  "author": "Sukumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^5.1.7"
+  }
+}

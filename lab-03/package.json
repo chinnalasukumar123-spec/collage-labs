@@ -1,23 +1,27 @@
 {
   "name": "lab-03",
   "version": "1.0.0",
-  "description": "Lab 3: REST API, query parameters, validation, debugging",
+  "description": "Lab 3: REST API, Query Parameters, Validation, Debugging",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "dev": "node server.js",
     "test": "node test.js"
   },
   "keywords": [
     "nodejs",
     "express",
-    "sqlite3",
+    "mysql",
+    "mysql2",
     "rest-api",
     "lab-03"
   ],
-  "author": "Sukumar",
+  "author": "CHINNALA SUKUMAR",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.3.0",
-    "sqlite3": "^5.1.7"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
   }
 }

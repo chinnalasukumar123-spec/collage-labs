@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: lab-2-lab-3-books-api
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /

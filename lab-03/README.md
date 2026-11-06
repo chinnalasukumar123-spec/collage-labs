@@ -378,7 +378,7 @@ This issue occurs when an asynchronous database operation is not properly awaite
 https://github.com/chinnalasukumar123-spec/collage-labs
 
 **Live URL:** 
-Deployment pending (Deploy using render.yaml on Render) 
+https://collage-labs-1.onrender.com/
 
 
 The application is configured for deployment using the `render.yaml` configuration file.
